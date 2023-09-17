@@ -3,7 +3,8 @@
 <h3 align="center">Creating Digital Magic with HTML, CSS, and JavaScript ✨</h3>
 <img align ="centre" width="400" src="https://camo.githubusercontent.com/8988ca833cce3de61942d07bd4f0963290360db1833cb9380e918d3043c7c586/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d374333424544266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c6521">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shah-Namra&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning React and Python
