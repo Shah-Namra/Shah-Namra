@@ -9,9 +9,8 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning React and Python
 
-- 💬 Ask me about Frontend and DSA
+- 💬 Ask me about Development and DSA
 
 - 📫 How to reach me **1shahnamra@gmail.com**
 
@@ -25,7 +24,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) NodeJs, ExpressJs, TypeScript, NextJs, 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
