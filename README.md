@@ -1,8 +1,6 @@
 # Namra Shah
 
-Backend-leaning software engineer based in Vadodara, India. Currently building the backend of a task management platform at **CognitionIES** with Node.js, TypeScript, PostgreSQL, RabbitMQ, and AWS.
-
-Most of my work is on the backend: APIs, query performance, real-time sync, auth, and deploys. I also ship full-stack when a project needs it. Outside of work I build projects to understand systems from the inside out.
+Currently Mtech CyberSecurity Student at Nirma
 
 ---
 
