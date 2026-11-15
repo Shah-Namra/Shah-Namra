@@ -4,7 +4,7 @@ Currently Mtech CyberSecurity Student at Nirma
 
 ---
 
-### What I'm working on
+### What I have worked on
 
 - **[Chess Engine](https://github.com/Shah-Namra/Chess-Engine)** — A chess engine in C++17, built from scratch. Bitboards, iterative deepening alpha-beta, a Zobrist-hashed transposition table, and move ordering. Roughly 80% search-node reduction across iterations, benchmarked on 100 Lichess mate-in-3 puzzles.
 - **[CinemaRanked](https://github.com/Shah-Namra/CinemaRanked)** — Elo-based head-to-head movie ranking. Dynamic K-factors, weighted pairing, and atomic vote transactions with `SELECT FOR UPDATE` in PostgreSQL.
